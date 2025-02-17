@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Logs and databases
+*.log
+db.sqlite3
+
+# Test coverage reports
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+
+# MyPy type checker
+.mypy_cache/
+
+# Pytest cache
+.pytest_cache/
+
+# Other
+*.DS_Store
+Thumbs.db
